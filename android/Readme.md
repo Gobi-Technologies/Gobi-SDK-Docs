@@ -62,7 +62,8 @@ public class Stories {
 ## Usage
 ### 1. Show a story
 
-Use the method `gobi.showStory(storyKey, supportFragmentManager)`.
+Use the method `Gobi.showStory(storyKey, supportFragmentManager)`.
+If you are not using `AppCompat`, use `Gobi.showStory(storyKey, activity)`.
 
 ```java
 import android.widget.Button;
