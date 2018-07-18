@@ -10,6 +10,10 @@ Template:
 * Fix: Dont divide by zero.
 
 -->
+## Version 1.2.0 (date 18.07.2018)
+
+* New: `Gobi.showStory(String, android.app.Activity)` was added.
+
 ## Version 1.1.0 (date 16.07.2018)
 
 * New: More detailed exception message when user generation fails.
