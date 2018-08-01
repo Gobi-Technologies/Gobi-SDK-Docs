@@ -20,7 +20,7 @@ repositories {
 Add this in `app/build.gradle`:
 ```groovy
 dependencies {
-    implementation 'no.gobiapp.gobi.sdk:sdk:1.1.0'
+    implementation 'no.gobiapp.gobi.sdk:sdk:1.4.0'
 }
 ```
 
