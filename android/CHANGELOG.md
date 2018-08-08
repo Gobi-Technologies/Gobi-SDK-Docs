@@ -11,6 +11,10 @@ Template:
 
 -->
 
+## Version 1.4.1 (08.08.2018)
+
+* Fix: Correctly use `activityExitAnimation` from `ViewStoryConfiguration`
+
 ## Version 1.4.0 (01.08.2018)
 
 * New: `Gobi.showStory(String, Activity, ViewStoryConfiguration)` method was added. The configuration object can set `useRewind`, as well as `activityEnterAnimation` and `activityExitAnimation`.
