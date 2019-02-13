@@ -1,2 +1,2 @@
 
-https://github.com/Gobitech/Gobi-SDK-iOS
+https://github.com/Gobitech/Gobi-IOS-SDK
