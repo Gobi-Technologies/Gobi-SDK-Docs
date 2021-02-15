@@ -1,5 +1,9 @@
 # Gobi SDK
 
+## WARNING
+
+This SDK is not maintained anymore and could only be used to display stories from our legacy backend. 
+
 
 ## Installing
 
